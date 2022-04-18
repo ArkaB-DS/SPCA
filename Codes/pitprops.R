@@ -24,13 +24,3 @@ PEVmatrix[i, ] <- SPCA$pev
 }
 
 plot(lambda.grid, PEVmatrix[,1], type = "l", xlim = c(0, 0.2))
-
-
-
-
-
-
-
-
-
-
