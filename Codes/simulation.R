@@ -1,3 +1,4 @@
+library(elasticnet)
 set.seed(42)
 # original data
 V1 <- rnorm(1, 0, sqrt(290))
@@ -25,5 +26,11 @@ out <- spca(var(X), K = 10, para = rep(5, 10),
             type = "Gram", sparse = "penalty",
             max.iter = 1000, lambda = 0,
             use.corr = TRUE)
+
+out_gas<-gas.pca(var(X),d=10,type="Gram",n=100000)
 out$loadings
 out$pev
+
+df<-cbind(PCA$rotation[, 1:3],out$loadings[,1:3],out_gas$loadings[,1:3])
+library(stargazer)
+stargazer(df)
