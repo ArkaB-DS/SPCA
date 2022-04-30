@@ -1,6 +1,6 @@
 # SPCA
 
-This repo contains the codes, images, report and slides for the project of the course - `MTH514A: Multivariate Analysis` at IIT Kanpur during the academic year 2022-2023.
+This repo contains the R codes, figures, and datasets used in the project for the course - `MTH514A: Multivariate Analysis` at IIT Kanpur during the academic year 2022-2023.
 
 ## Project Members
   - Arkajyoti Bhattacharjee 
