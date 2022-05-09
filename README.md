@@ -9,7 +9,7 @@ This repo contains the R codes, figures, and datasets used in the project for th
   - Ritwik Vashistha
 
 ## Project Title
-`A Brief Review of Sparse Principal Components Analysis and its Generalization`
+`A Brief Review of Sparse Principal Components Analysis and its Generalization` [`Report`](https://github.com/ArkaB-DS/SPCA/blob/main/Multivariate_Project.pdf) [`Slides`](https://github.com/ArkaB-DS/SPCA/blob/main/Multivariate_Project__slides_.pdf)
 
 ## Abstract
 > Principal Component Analysis is a widely studied methodology as it is a useful technique for dimension reduction. 
