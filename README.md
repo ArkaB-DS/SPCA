@@ -12,6 +12,16 @@ This repo contains the R codes, figures, and datasets used in the project for th
 ## Project Title
 `A Brief Review of Sparse Principal Components Analysis and its Generalization` [`[Report]`](https://github.com/ArkaB-DS/SPCA/blob/main/Multivariate_Project.pdf) [`[Slides]`](https://github.com/ArkaB-DS/SPCA/blob/main/Multivariate_Project__slides_.pdf)
 
+## Table of Contents
+
+|Section|Topic|
+|-------|-----|
+|1|Introduction|
+|2|The LASSO and Elastic Net|
+|3|SPCA <ul> 3.1 Direct Sparse Approximation</ul> <ul> 3.2 SPCA Criterion </ul> <ul> 3.3 Numerical Solution </ul> <ul> 3.4 Adjusted Total Variance </ul> <ul> 3.5 Computational Complexity </ul>|
+|4|GAS-PCA <ul> 4.1 Asymptotic Properties of GAS-PCA </ul> <ul>Optimal Choice of the Kernel Matrix, $\tilde{Omega}$</ul>|
+|5|Examples <ul>5.1 Synthetic Data Analysis</ul> <ul>5.2 Real Data Analysis <ul>5.2.1 Pitprops Data</ul> <ul>5.2.2 Teaching Data</ul></ul>|
+|6|Conclusion|
 ## Abstract
 > Principal Component Analysis is a widely studied methodology as it is a useful technique for dimension reduction. 
 In this report, we discuss Sparse Principal Component Analysis (SPCA), which is a modification over PCA. 
