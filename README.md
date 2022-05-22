@@ -10,7 +10,7 @@ This repo contains the R codes, figures, and datasets used in the project for th
   - [Shubha Sankar Banerjee](https://github.com/shubha3)
 
 ## Project Title
-`A Brief Review of Sparse Principal Components Analysis and its Generalization` [`Report`](https://github.com/ArkaB-DS/SPCA/blob/main/Multivariate_Project.pdf) [`Slides`](https://github.com/ArkaB-DS/SPCA/blob/main/Multivariate_Project__slides_.pdf)
+`A Brief Review of Sparse Principal Components Analysis and its Generalization` [`[Report]`](https://github.com/ArkaB-DS/SPCA/blob/main/Multivariate_Project.pdf) [`[Slides]`](https://github.com/ArkaB-DS/SPCA/blob/main/Multivariate_Project__slides_.pdf)
 
 ## Abstract
 > Principal Component Analysis is a widely studied methodology as it is a useful technique for dimension reduction. 
@@ -22,6 +22,6 @@ even in finite sample cases. Our report is mainly based on [1] and its extension
 
 
 ## Primary References
-[1] Hui Zou, Trevor Hastie & Robert Tibshirani (2006) Sparse Principal Component Analysis, Journal of Computational and Graphical Statistics, 15:2, 265-286, DOI: <u>10.1198/106186006X113430</u>
+[1] [Hui Zou, Trevor Hastie & Robert Tibshirani (2006) Sparse Principal Component Analysis, Journal of Computational and Graphical Statistics, 15:2, 265-286, DOI: <u>10.1198/106186006X113430</u>](https://hastie.su.domains/Papers/spc_jcgs.pdf)
 
-[2] Chenlei Leng & Hansheng Wang (2009) On General Adaptive Sparse Principal Component Analysis, Journal of Computational and Graphical Statistics, 18:1, 201-215, DOI: <u>10.1198/jcgs.2009.0012</u>
+[2] [Chenlei Leng & Hansheng Wang (2009) On General Adaptive Sparse Principal Component Analysis, Journal of Computational and Graphical Statistics, 18:1, 201-215, DOI: <u>10.1198/jcgs.2009.0012</u>](https://www.tandfonline.com/doi/pdf/10.1198/jcgs.2009.0012?casa_token=6hQ5NY-CPQwAAAAA:6QvZeqWa-IXVd_Mbxu6MCUqnEVEw5L-MmLI5Z1-_03bU9mYqD6LHI_foctumbmTOAX3-xaWqy-U)
