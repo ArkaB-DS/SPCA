@@ -12,6 +12,14 @@ This repo contains the R codes, figures, and datasets used in the project for th
 ## Project Title
 `A Brief Review of Sparse Principal Components Analysis and its Generalization` [`[Report]`](https://github.com/ArkaB-DS/SPCA/blob/main/Multivariate_Project.pdf) [`[Slides]`](https://github.com/ArkaB-DS/SPCA/blob/main/Multivariate_Project__slides_.pdf)
 
+## Abstract
+> Principal Component Analysis is a widely studied methodology as it is a useful technique for dimension reduction. 
+In this report, we discuss Sparse Principal Component Analysis (SPCA), which is a modification over PCA. 
+This method is able to resolve the interpretation issue of PCA. Additionally, it provides sparse loadings to
+the principal components. The main idea of SPCA comes from the relationship between PCA problem and regression analysis.
+We also discuss GAS-PCA, which is a generalization over SPCA and this method performs better than SPCA,
+even in finite sample cases. Our report is mainly based on [1] and its extension [2].
+
 ## Table of Contents
 
 |Section|Topic|
@@ -22,13 +30,6 @@ This repo contains the R codes, figures, and datasets used in the project for th
 |4|GAS-PCA <ul> 4.1 Asymptotic Properties of GAS-PCA </ul> <ul>Optimal Choice of the Kernel Matrix, $\tilde{Omega}$</ul>|
 |5|Examples <ul>5.1 Synthetic Data Analysis</ul> <ul>5.2 Real Data Analysis <ul>5.2.1 Pitprops Data</ul> <ul>5.2.2 Teaching Data</ul></ul>|
 |6|Conclusion|
-## Abstract
-> Principal Component Analysis is a widely studied methodology as it is a useful technique for dimension reduction. 
-In this report, we discuss Sparse Principal Component Analysis (SPCA), which is a modification over PCA. 
-This method is able to resolve the interpretation issue of PCA. Additionally, it provides sparse loadings to
-the principal components. The main idea of SPCA comes from the relationship between PCA problem and regression analysis.
-We also discuss GAS-PCA, which is a generalization over SPCA and this method performs better than SPCA,
-even in finite sample cases. Our report is mainly based on [1] and its extension [2].
 
 
 ## Primary References
