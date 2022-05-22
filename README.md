@@ -27,7 +27,7 @@ even in finite sample cases. Our report is mainly based on [1] and its extension
 |1|Introduction|
 |2|The LASSO and Elastic Net|
 |3|SPCA <ul> 3.1 Direct Sparse Approximation</ul> <ul> 3.2 SPCA Criterion </ul> <ul> 3.3 Numerical Solution </ul> <ul> 3.4 Adjusted Total Variance </ul> <ul> 3.5 Computational Complexity </ul>|
-|4|GAS-PCA <ul> 4.1 Asymptotic Properties of GAS-PCA </ul> <ul>Optimal Choice of the Kernel Matrix, $\tilde{Omega}$</ul>|
+|4|GAS-PCA <ul> 4.1 Asymptotic Properties of GAS-PCA </ul> <ul>Optimal Choice of the Kernel Matrix, $\tilde{\Omega}$</ul>|
 |5|Examples <ul>5.1 Synthetic Data Analysis</ul> <ul>5.2 Real Data Analysis <ul>5.2.1 Pitprops Data</ul> <ul>5.2.2 Teaching Data</ul></ul>|
 |6|Conclusion|
 
