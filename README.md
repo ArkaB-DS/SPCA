@@ -22,7 +22,7 @@ even in finite sample cases. Our report is mainly based on [1] and its extension
 
 ## Table of Contents
 
-|Section|Topic|
+|**Section**|**Topic**|
 |-------|-----|
 |1|Introduction|
 |2|The LASSO and Elastic Net|
