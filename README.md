@@ -3,10 +3,11 @@
 This repo contains the R codes, figures, and datasets used in the project for the course - `MTH514A: Multivariate Analysis` at IIT Kanpur during the academic year 2022-2023.
 
 ## Project Members
-  - Arkajyoti Bhattacharjee 
-  - Rachita Mondal
-  - Shubha Sankar Banerjee
-  - Ritwik Vashistha
+
+  - [Arkajyoti Bhattacharjee](https://github.com/ArkaB-DS)
+  - [Rachita Mondal](https://github.com/Rachita-Mondal)
+  - [Ritwik Vashishtha](https://github.com/ritwikvashistha)
+  - [Shubha Sankar Banerjee](https://github.com/shubha3)
 
 ## Project Title
 `A Brief Review of Sparse Principal Components Analysis and its Generalization` [`Report`](https://github.com/ArkaB-DS/SPCA/blob/main/Multivariate_Project.pdf) [`Slides`](https://github.com/ArkaB-DS/SPCA/blob/main/Multivariate_Project__slides_.pdf)
